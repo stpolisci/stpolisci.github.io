@@ -4,17 +4,17 @@ project:
 
 website:
   title: "stpolisci"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  navbar: 
+    search: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    link-external-newwindow: true
     toc: true
+    toc-title: " "
+    callout-appearance: simple
 
 editer: visual
 

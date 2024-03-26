@@ -4,23 +4,13 @@
     "href": "index.html",
     "title": "stpolisci",
     "section": "",
-    "text": "This is a stpolisci website."
+    "text": "Polisci student\n\nCV"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-<<<<<<< HEAD
-  },
-  {
-    "objectID": "index.html#お知らせ",
-    "href": "index.html#お知らせ",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "stpolisci",
-    "section": "お知らせ",
-    "text": "お知らせ\n\n2024/04/01"
-=======
->>>>>>> 9d7c537276c4d3d0babb566ea8e29eab0eff1cf2
+    "section": "Research Interests",
+    "text": "Research Interests\nI am interested in Political Behavior, Elections and Accountability. I primarily employ data science.\n\n\n\n\n\n\n研究関心\n\n\n\nPolitical Behavor/Elections/Accountability/Data Science/Japanese Politics"
   }
 ]

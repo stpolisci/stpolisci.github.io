@@ -1,11 +1,40 @@
 ---
 title: "stpolisci"
+about: 
+  id: heading
+  template: trestles
+  image: images/IMG_4421.jpg
+  image-width: 200px
+  image-shape: round
+  #links:
+    #- icon: envelope
+    #  text: e-mail
+    #  href: mailto:dto885409@gmail.com
+    #- icon: github
+    #  href: https://github.com/stpolisci
 ---
 
-This is a stpolisci website.
+:::{#heading}
+
+Polisci student
+
+- CV
+
+:::
 
 :::{.callout-note}
+
 ## お知らせ
 
-- 2024
+- 2024/04/01
+:::
+
+## Research Interests
+
+I am interested in Political Behavior, Elections and Accountability. I primarily employ data science. 
+
+:::{.callout-note}
+## 研究関心
+
+Political Behavor/Elections/Accountability/Data Science/Japanese Politics
 :::
