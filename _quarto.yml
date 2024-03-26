@@ -4,8 +4,11 @@ project:
 
 website:
   title: "stpolisci"
-  navbar: 
-    search: false
+  navbar:
+    left: 
+      - index.qmd
+      - research.qmd
+      - Notes.qmd
 
 format:
   html:

@@ -18,7 +18,7 @@ about:
 
 I am an undergraduate student in department of political science, Doshisha University.
 
-- CV
+- [CV](H:/マイドライブ/CV/Academic_CV_Template.pdf)
 - Researchmap
 
 :::
@@ -29,17 +29,4 @@ I am an undergraduate student in department of political science, Doshisha Unive
 
 - 2024/04/01
 :::
-
-## Research Interests
-
-I am interested in Political Behavior, Elections and Accountability. I primarily employ data science. 
-
-## Publications
-
-under construcrtion
-
-
-## Presentation
-
-under survey
 
