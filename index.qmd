@@ -6,19 +6,20 @@ about:
   image: images/IMG_4421.jpg
   image-width: 200px
   image-shape: round
-  #links:
-    #- icon: envelope
-    #  text: e-mail
-    #  href: mailto:dto885409@gmail.com
-    #- icon: github
-    #  href: https://github.com/stpolisci
+  links:
+    - icon: envelope
+      text: e-mail
+      href: mailto:dto885409@gmail.com
+    - icon: github
+      href: https://github.com/stpolisci
 ---
 
 :::{#heading}
 
-Polisci student
+I am an undergraduate student in department of political science, Doshisha University.
 
 - CV
+- Researchmap
 
 :::
 
@@ -33,8 +34,12 @@ Polisci student
 
 I am interested in Political Behavior, Elections and Accountability. I primarily employ data science. 
 
-:::{.callout-note}
-## 研究関心
+## Publications
 
-Political Behavor/Elections/Accountability/Data Science/Japanese Politics
-:::
+under construcrtion
+
+
+## Presentation
+
+under survey
+
