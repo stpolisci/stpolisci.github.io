@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Pulse
     css: styles.css
     link-external-newwindow: true
     toc: true
