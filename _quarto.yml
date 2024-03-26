@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "stpolisci.github.io"
+  title: "stpolisci"
   navbar:
     left:
       - href: index.qmd
