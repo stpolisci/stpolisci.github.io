@@ -12,6 +12,7 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+<<<<<<< HEAD
   },
   {
     "objectID": "index.html#お知らせ",
@@ -19,5 +20,7 @@
     "title": "stpolisci",
     "section": "お知らせ",
     "text": "お知らせ\n\n2024/04/01"
+=======
+>>>>>>> 9d7c537276c4d3d0babb566ea8e29eab0eff1cf2
   }
 ]

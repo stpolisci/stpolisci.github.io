@@ -4,8 +4,8 @@ title: "stpolisci"
 
 This is a stpolisci website.
 
-::: callout-...
+:::{.callout-...}
 ## お知らせ
 
-- 2024/04/01
+ブロックの内容
 :::
