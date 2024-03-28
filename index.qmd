@@ -16,16 +16,12 @@ about:
 
 :::{#heading}
 
-Political Science
-
-- CV
 
 :::
 
 :::{.callout-note}
 
-## お知らせ
-
-- 2024/04/01
+## News
+- 2024/04
 :::
 
