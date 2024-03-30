@@ -3,14 +3,10 @@ title: "Research"
 ---
 
 ## Research Interests
+**Political Science**: Political Behavior, Elections, Japanese Politics
 
-I am interested in Political Behavior, Elections and Accountability. I primarily employ data science. 
+**Methods**: Quantitative Analysis,  Causal Inference, Survey
 
 ## Publications
+under construction
 
-under construcrtion
-
-
-## Presentation
-
-under survey
