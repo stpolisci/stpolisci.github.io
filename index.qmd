@@ -9,13 +9,12 @@ about:
   links:
     - icon: envelope
       text: e-mail
-      href: mailto:dto885409@gmail.com
+      href: mailto:zock57007@gmail.com
     - icon: github
       href: https://github.com/stpolisci
 ---
 
 :::{#heading}
-
 
 :::
 
