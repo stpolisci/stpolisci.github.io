@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: e-mail
-      href: mailto:zock57007@gmail.com
+      href: mailto:sena.tanaka0210@gmail.com
     - icon: github
       href: https://github.com/stpolisci
 ---
@@ -21,6 +21,6 @@ about:
 :::{.callout-note}
 
 ## News
-- 2024/04
+
 :::
 
