@@ -2,7 +2,7 @@
 title: "stpolisci"
 about: 
   id: heading
-  template: marquee
+  template: trestles
   image: images/IMG_4421.jpg
   image-width: 200px
   image-shape: round
