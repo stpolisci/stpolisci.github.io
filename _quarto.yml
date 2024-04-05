@@ -4,16 +4,20 @@ project:
 
 website:
   title: "stpolisci"
+  page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: primary
     search: true
     left:
       - text: "Home"
-        file: index.qmd
-      - cv.qmd
-      - research.qmd
-      - Notes.qmd
-    tools: 
+        href: index.qmd
+      - text: "CV"
+        href: cv/cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Notes"
+        href: Notes.qmd
+    right: 
       - icon: envelope
         text: e-mail
         href: mailto:sena.tanaka0210@gmail.com
