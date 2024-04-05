@@ -10,6 +10,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
+      - cv.qmd
       - research.qmd
       - Notes.qmd
     tools: 

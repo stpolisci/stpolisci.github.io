@@ -2,25 +2,17 @@
 title: "stpolisci"
 about: 
   id: heading
-  template: marquee
-  #image: images/IMG_4421.jpg
-  #image-width: 300px
-  links:
-    - icon: envelope
-      text: e-mail
-      href: mailto:sena.tanaka0210@gmail.com
-    - icon: github
-      href: https://github.com/stpolisci
+  template: jolla
+link-external-newwindow: true
 ---
 
 :::{#heading}
+
 I am a final year undergraduate student, majoring in political science.
 
-- [CV](https://drive.google.com/file/d/1baKx4-ckyKL_8r8YDRuYKubxr0VdUEmH/view?usp=drive_link)
 
 :::
-
-:::{.callout-note}
+:::{.callout-note appearance="default"}
 
 ## News
 
