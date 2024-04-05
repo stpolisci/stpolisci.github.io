@@ -2,10 +2,9 @@
 title: "stpolisci"
 about: 
   id: heading
-  template: trestles
+  template: solana
   image: images/IMG_4421.jpg
   image-width: 200px
-  image-shape: round
   links:
     - icon: envelope
       text: e-mail

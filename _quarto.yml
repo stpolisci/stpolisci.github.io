@@ -3,10 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "stpolisci Website"
+  title: "stpoisci"
   navbar:
-    left: 
-      - index.qmd
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
       - research.qmd
       - Notes.qmd
 
