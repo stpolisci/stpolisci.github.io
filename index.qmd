@@ -2,9 +2,9 @@
 title: "stpolisci"
 about: 
   id: heading
-  template: solana
-  image: images/IMG_4421.jpg
-  image-width: 200px
+  template: marquee
+  #image: images/IMG_4421.jpg
+  #image-width: 300px
   links:
     - icon: envelope
       text: e-mail

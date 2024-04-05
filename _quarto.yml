@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "stpoisci"
+  title: "stpolisci"
   navbar:
     background: primary
     search: true
@@ -12,6 +12,12 @@ website:
         file: index.qmd
       - research.qmd
       - Notes.qmd
+    tools: 
+      - icon: envelope
+        text: e-mail
+        href: mailto:sena.tanaka0210@gmail.com
+      - icon: github
+        href: https://github.com/stpolisci
 
 format:
   html:
