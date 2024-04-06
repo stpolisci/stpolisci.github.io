@@ -7,6 +7,11 @@ title: "Research"
 
 **Methods**: Quantitative Analysis,  Causal Inference, Survey
 
-## Publications
-under construction
+## Work in Progress
+
+- Natural Disasters and Political Corruption: Evidence from Cross-national Panel Data
+Analysis
+
+
+- Public Perception and External Criticism of Controversial Policy: Evidence from a Survey Experiment on ALPS Treated Water in Japan
 
