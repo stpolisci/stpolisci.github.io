@@ -19,7 +19,6 @@ website:
         href: Notes.qmd
     right: 
       - icon: envelope
-        text: e-mail
         href: mailto:sena.tanaka0210@gmail.com
       - icon: github
         href: https://github.com/stpolisci

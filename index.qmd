@@ -8,7 +8,7 @@ link-external-newwindow: true
 
 :::{#heading}
 
-I am a final year undergraduate student, majoring in political science.
+I am a final-year undergraduate student, majoring in political science.
 
 
 :::
