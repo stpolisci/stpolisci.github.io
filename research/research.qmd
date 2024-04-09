@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ## Research Interests
-**Political Science**: Political Behavior, Elections, Japanese Politics
+**Political Science**: Political Behavior, Elections, Quality of Democracy, Japanese Politics
 
 **Methods**: Quantitative Analysis,  Causal Inference, Survey
 

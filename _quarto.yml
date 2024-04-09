@@ -14,9 +14,9 @@ website:
       - text: "CV"
         href: cv/cv.qmd
       - text: "Research"
-        href: research.qmd
+        href: research/research.qmd
       - text: "Notes"
-        href: Notes.qmd
+        href: notes/Notes.qmd
     right: 
       - icon: envelope
         href: mailto:sena.tanaka0210@gmail.com
