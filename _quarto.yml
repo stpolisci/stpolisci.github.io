@@ -29,7 +29,7 @@ format:
     css: styles.css
     link-external-newwindow: true
     toc: true
-    toc-title: " "
+    toc-title: ""
     callout-appearance: simple
 
 editer: visual
