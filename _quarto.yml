@@ -18,8 +18,8 @@ website:
       - text: "Notes"
         href: notes/Notes.qmd
     right: 
-      - icon: envelope
-        href: mailto:sena.tanaka0210@gmail.com
+      #- icon: envelope
+      #  href: mailto:sena.tanaka0210@gmail.com
       - icon: github
         href: https://github.com/stpolisci
 
