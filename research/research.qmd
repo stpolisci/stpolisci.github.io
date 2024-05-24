@@ -3,9 +3,9 @@ title: "Research"
 ---
 
 ## Research Interests
-**Political Science**: Political Behavior, Elections, Quality of Democracy, Japanese Politics
+**Political Science**: Political Behavior, Japanese Politics
 
-**Methods**: Quantitative Analysis,  Causal Inference, Survey
+**Methods**: Quantitative Methods,  Causal Inference, Survey
 
 ## Work in Progress
 
@@ -14,3 +14,7 @@ Analysis
 
 
 - External Criticism and Public Attitude toward Unpopular Policy: Evidence from a Survey Experiment on the Discharge of ALPS Treated Water in Japan
+
+- Legislative, Party and cabinet Positions and Electoral Outcome
+
+- Public Reaction and Unilateral Action: Evidence from Survey Experiment in Japan
