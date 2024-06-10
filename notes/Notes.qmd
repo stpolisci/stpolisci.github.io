@@ -2,4 +2,5 @@
 title: "Notes"
 ---
 
-under construction
+## Koshiki
+- [ベイズ統計資料](Koshiki/bayesian/koshiki_bayesian.html)

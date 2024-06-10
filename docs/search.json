@@ -123,7 +123,7 @@
     "href": "notes/Notes.html",
     "title": "Notes",
     "section": "",
-    "text": "under construction"
+    "text": "ベイズ統計資料"
   },
   {
     "objectID": "cv/cv.html#日本語cv",
@@ -159,5 +159,47 @@
     "title": "CV",
     "section": "Brief CV in Japanese",
     "text": "Brief CV in Japanese"
+  },
+  {
+    "objectID": "notes/Notes.html#materials",
+    "href": "notes/Notes.html#materials",
+    "title": "Notes",
+    "section": "",
+    "text": "koshiki_bayesian.html"
+  },
+  {
+    "objectID": "notes/Materials/bayesian/koshiki_bayesian.html#example-predicting-election-outcomes",
+    "href": "notes/Materials/bayesian/koshiki_bayesian.html#example-predicting-election-outcomes",
+    "title": "Introduction to Bayesian Statistics",
+    "section": "Example: Predicting Election Outcomes",
+    "text": "Example: Predicting Election Outcomes\n\nThe 538 Problem:\n\nPredicts the winner in each state/district\nUses aggregate data from polls\n\nSample size\nNumber of intended votes for each candidate\n\n\nModel:\n\nFor each district \\(i\\),\n\\(p_i\\): Dem’s actual vote share\n\\(X_{ij}\\): Intended votes for Dem in poll \\(j\\)\n\\(n_{ij}\\): Sample size of poll \\(j\\)\nGenerative process: \\(X_{ij} \\overset{\\text{indep.}}{\\sim} \\text{Binom}(n_{ij}, p_i) \\quad \\text{for } j = 1, \\ldots, J\\)"
+  },
+  {
+    "objectID": "notes/Materials/bayesian/koshiki_bayesian.html#bayes-theoram",
+    "href": "notes/Materials/bayesian/koshiki_bayesian.html#bayes-theoram",
+    "title": "Introduction to Bayesian Statistics",
+    "section": "Bayes’ Theoram",
+    "text": "Bayes’ Theoram\n\nBayes' theoram:\n\nParameter \\(\\theta\\)with prior \\(p(\\theta)\\)\nData \\(X\\) with likehood \\(p(X|\\theta)\\)\nLikehood = joint distribution of data\nPosterior of \\(\\theta\\) given \\(X\\):\n\n\\[p(\\theta \\mid \\mathbf{X}) = \\frac{p(\\theta) p(\\mathbf{X} \\mid \\theta)}{\\int p(\\theta) p(\\mathbf{X} \\mid \\theta) \\, d\\theta} \\qquad(1)\\]"
+  },
+  {
+    "objectID": "notes/Notes.html#koshiki",
+    "href": "notes/Notes.html#koshiki",
+    "title": "Notes",
+    "section": "",
+    "text": "ベイズ統計資料"
+  },
+  {
+    "objectID": "notes/Koshiki/bayesian/koshiki_bayesian.html#example-predicting-election-outcomes",
+    "href": "notes/Koshiki/bayesian/koshiki_bayesian.html#example-predicting-election-outcomes",
+    "title": "Introduction to Bayesian Statistics",
+    "section": "Example: Predicting Election Outcomes",
+    "text": "Example: Predicting Election Outcomes\n\nThe 538 Problem:\n\nPredicts the winner in each state/district\nUses aggregate data from polls\n\nSample size\nNumber of intended votes for each candidate\n\n\nModel:\n\nFor each district \\(i\\),\n\\(p_i\\): Dem’s actual vote share\n\\(X_{ij}\\): Intended votes for Dem in poll \\(j\\)\n\\(n_{ij}\\): Sample size of poll \\(j\\)\nGenerative process: \\(X_{ij} \\overset{\\text{indep.}}{\\sim} \\text{Binom}(n_{ij}, p_i) \\quad \\text{for } j = 1, \\ldots, J\\)"
+  },
+  {
+    "objectID": "notes/Koshiki/bayesian/koshiki_bayesian.html#bayes-theoram",
+    "href": "notes/Koshiki/bayesian/koshiki_bayesian.html#bayes-theoram",
+    "title": "Introduction to Bayesian Statistics",
+    "section": "Bayes’ Theoram",
+    "text": "Bayes’ Theoram\n\nBayes' theoram:\n\nParameter \\(\\theta\\)with prior \\(p(\\theta)\\)\nData \\(X\\) with likehood \\(p(X|\\theta)\\)\nLikehood = joint distribution of data\nPosterior of \\(\\theta\\) given \\(X\\):\n\n\\[p(\\theta \\mid \\mathbf{X}) = \\frac{p(\\theta) p(\\mathbf{X} \\mid \\theta)}{\\int p(\\theta) p(\\mathbf{X} \\mid \\theta) \\, d\\theta} \\qquad(1)\\]"
   }
 ]

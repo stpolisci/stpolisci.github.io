@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+// @import url(https://fonts.googleapis.com/css?family=Zen+Maru+Gothic&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap);
+// fonts
+$font-family-sans-serif: "Noto Sans JP", sans-serif !default;
+//$font-family-monospace: "Fira Code", monospace !default;
+// colors
+$color_base: #800080 !default;
+$color_accent: #FFA500 !default;
+$body_bg: #ffffff !default;
+$body-color: #272822 !default;
+$link-color: #FFA500 !default;
+// headings
+$presentation-heading-font: "Noto Sans JP", sans-serif !default;
+$presentation-heading-color: #800080 !default;
+$h1-font-size: 1.6em !default;
+$h2-font-size: 1.3em !default;
+$h3-font-size: 1.15em !default;
+$h4-font-size: 1.0em !default;
+// code blocks
+$code-block-border-color: #93a1a1 !default;
+$code-color: #FFA500;
+/*-- scss:rules --*/
+
+// right-arrowはhaihun
+$hyphen: "\FE63"; 
+$hollow-circle: "\25CB"; // Unicode character for hollow circle
+$bullet: "\2022"; //bullet 
+
+.reveal p {
+  font-weight: 300;
+  margin-top: 1.25em;
+}
+
+// lists
+
+// Unordered lists
+
+.reveal ul {
+  font-weight: 300;
+  padding-left: 16px;
+
+  li::marker {
+    color: mix($color_base, white, 90%);
+  }
+}
+
+.reveal ul ul {
+  list-style: none;
+  
+  li:before {
+    content: $bullet;
+    color: mix($color_base, white, 70%);
+    display: inline-block;
+    width: -1em;
+    margin-left: -1em;
+    margin-right: 0.5em;
+  }
+}
+
+.reveal ul ul ul {
+  list-style: none;
+
+  li:before {
+    content: $hyphen;
+    color: mix($color_base, white, 80%);
+    display: inline-block;
+    width: 1em;
+    margin-left: -0.5em; // Adjust this value to shift it more to the right
+    margin-right: 0.5em;
+  }
+}
+
+
+
