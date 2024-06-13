@@ -2,15 +2,17 @@
 title: "Research"
 ---
 
-## Research Interests
-**Political Science**: Political Behavior, Elections, Japanese Politics
+under construction
 
-**Methods**: Quantitative Methods, Survey
+<!-- ## Research Interests -->
+<!-- **Political Science**: Political Behavior, Elections, Japanese Politics -->
 
-## Works in Progress
+<!-- **Methods**: Quantitative Methods, Survey -->
 
-- Natural Disasters and Political Corruption: Evidence from Cross-national Panel Data
-Analysis
+<!-- ## Works in Progress -->
 
-- Politician's Promotion and Vote Share in Election: Evidence from Japanese SNTV
+<!-- - Natural Disasters and Political Corruption: Evidence from Cross-national Panel Data -->
+<!-- Analysis -->
+
+<!-- - Politician's Promotion and Vote Share in Election: Evidence from Japanese SNTV -->
 
