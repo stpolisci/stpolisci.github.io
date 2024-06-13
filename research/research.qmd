@@ -3,18 +3,14 @@ title: "Research"
 ---
 
 ## Research Interests
-**Political Science**: Political Behavior, Japanese Politics
+**Political Science**: Political Behavior, Elections, Japanese Politics
 
-**Methods**: Quantitative Methods,  Causal Inference, Survey
+**Methods**: Quantitative Methods, Survey
 
-## Work in Progress
+## Works in Progress
 
 - Natural Disasters and Political Corruption: Evidence from Cross-national Panel Data
 Analysis
 
+- Politician's Promotion and Vote Share in Election: Evidence from Japanese SNTV
 
-- External Criticism and Public Attitude toward Unpopular Policy: Evidence from a Survey Experiment on the Discharge of ALPS Treated Water in Japan
-
-- Legislative, Party and cabinet Positions and Electoral Outcome
-
-- Public Reaction and Unilateral Action: Evidence from Survey Experiment in Japan

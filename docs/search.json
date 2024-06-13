@@ -102,14 +102,14 @@
     "href": "research/research.html",
     "title": "Research",
     "section": "",
-    "text": "Political Science: Political Behavior, Japanese Politics\nMethods: Quantitative Methods, Causal Inference, Survey"
+    "text": "Political Science: Political Behavior, Elections, Japanese Politics\nMethods: Quantitative Methods, Survey"
   },
   {
     "objectID": "research/research.html#research-interests",
     "href": "research/research.html#research-interests",
     "title": "Research",
     "section": "",
-    "text": "Political Science: Political Behavior, Japanese Politics\nMethods: Quantitative Methods, Causal Inference, Survey"
+    "text": "Political Science: Political Behavior, Elections, Japanese Politics\nMethods: Quantitative Methods, Survey"
   },
   {
     "objectID": "research/research.html#work-in-progress",
@@ -123,7 +123,7 @@
     "href": "notes/Notes.html",
     "title": "Notes",
     "section": "",
-    "text": "ベイズ統計資料"
+    "text": "under construction"
   },
   {
     "objectID": "cv/cv.html#日本語cv",
@@ -201,5 +201,12 @@
     "title": "Introduction to Bayesian Statistics",
     "section": "Bayes’ Theoram",
     "text": "Bayes’ Theoram\n\nBayes' theoram:\n\nParameter \\(\\theta\\)with prior \\(p(\\theta)\\)\nData \\(X\\) with likehood \\(p(X|\\theta)\\)\nLikehood = joint distribution of data\nPosterior of \\(\\theta\\) given \\(X\\):\n\n\\[p(\\theta \\mid \\mathbf{X}) = \\frac{p(\\theta) p(\\mathbf{X} \\mid \\theta)}{\\int p(\\theta) p(\\mathbf{X} \\mid \\theta) \\, d\\theta} \\qquad(1)\\]"
+  },
+  {
+    "objectID": "research/research.html#works-in-progress",
+    "href": "research/research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nNatural Disasters and Political Corruption: Evidence from Cross-national Panel Data Analysis\nPolitician’s Promotion and Vote Share in Election: Evidence from Japanese SNTV"
   }
 ]
