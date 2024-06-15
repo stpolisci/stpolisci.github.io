@@ -12,6 +12,7 @@ link-external-newwindow: true
 
 
 :::
+
 :::{.callout-note appearance="default"}
 
 ## News

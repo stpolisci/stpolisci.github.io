@@ -4,6 +4,7 @@ project:
 
 website:
   title: "stpolisci"
+  google-analytics: "G-PJMBZ1E0ZS"
   page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: primary
