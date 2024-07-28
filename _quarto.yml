@@ -12,6 +12,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "About"
+        href: about/about.qmd
       - text: "CV"
         href: cv/cv.qmd
       - text: "Research"
