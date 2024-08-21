@@ -31,7 +31,7 @@ format:
     link-external-newwindow: true
     toc: true
     toc-title: ""
-    callout-appearance: simple
+    callout-appearance: minimal
 
 editer: visual
 
