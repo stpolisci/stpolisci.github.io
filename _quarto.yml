@@ -7,7 +7,7 @@ website:
   google-analytics: "G-PJMBZ1E0ZS"
   page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
   navbar:
-    background: primary
+    background: secondary
     search: true
     left:
       - text: "Home"
@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    theme: Pulse
+    theme: default
     css: styles.css
     link-external-newwindow: true
     toc: true

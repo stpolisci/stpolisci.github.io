@@ -1,5 +1,5 @@
 ---
-title: "stpolisci"
+title: "Sena Tanaka"
 about: 
   id: heading
   template: jolla
@@ -7,11 +7,15 @@ link-external-newwindow: true
 ---
 
 :::{#heading}
-
-
+Introduction
 
 
 :::
+
+## Experience
+
+## Education
+
 
 :::{.callout-note appearance="default"}
 
