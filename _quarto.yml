@@ -29,8 +29,8 @@ format:
     theme: default
     css: styles.css
     link-external-newwindow: true
-    toc: true
-    toc-title: ""
+    #toc: true
+    #toc-title: ""
     callout-appearance: minimal
 
 editer: visual
