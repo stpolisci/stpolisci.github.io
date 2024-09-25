@@ -1,13 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
-#language: _language.yml
-#lang: ja
 
 website:
   title: "stpolisci"
-  google-analytics: "G-PJMBZ1E0ZS"
+  #google-analytics: "G-PJMBZ1E0ZS"
   page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: "#7c7684" # lilachazy
