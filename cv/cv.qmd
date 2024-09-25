@@ -6,6 +6,3 @@ under construction
 
 <!-- ## Full CV in English -->
 <!-- <a href="cv.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>&nbsp;&nbsp;&nbsp;Open full CV in a new window</a> -->
-
-
-

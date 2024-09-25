@@ -1,17 +1,18 @@
 project:
   type: website
   output-dir: docs
+  
+#language: _language.yml
+#lang: ja
 
 website:
   title: "stpolisci"
   google-analytics: "G-PJMBZ1E0ZS"
   page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
   navbar:
-    background: secondary
+    background: "#7c7684" # lilachazy
     search: true
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "CV"
         href: cv/cv.qmd
       - text: "Research"
