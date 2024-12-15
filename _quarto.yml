@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+#language: _language.yml
+#lang: ja
+
 website:
   title: "stpolisci"
   #google-analytics: "G-PJMBZ1E0ZS"
