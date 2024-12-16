@@ -7,11 +7,11 @@ link-external-newwindow: true
 ---
 
 <!-- :::{#heading} -->
-<!-- Welcome. I am a senior undergraduate student at faculty of Law, Doshisha University in Japan. My research interest lies in Political Behavior, Elections, and Japanese Politics. -->
+<!-- Welcome. I am a senior undergraduate student at faculty of Law, department of political science, Doshisha University in Japan. My research interest lies in Political Behavior, Elections, and Japanese Politics. -->
 
 <!-- ::: -->
 
-<!-- ## Experience -->s
+<!-- ## Experience -->
 
 <!-- ## Education -->
 
