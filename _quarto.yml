@@ -6,22 +6,22 @@ project:
 #lang: ja
 
 website:
-  title: "stpolisci"
+  title: "Sena Tanaka's Website"
   #google-analytics: "G-PJMBZ1E0ZS"
-  page-footer: "Copyright 2024, stpolisci. Powered by [Quarto](https://quarto.org/)"
+  page-footer: "Copyright 2025, Sena Tanaka. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: "#7c7684" # lilachazy
     search: true
     left:
+      - text: "Home"
+        href: index.qmd
       - text: "CV"
         href: cv/cv.qmd
       - text: "Research"
         href: research/research.qmd
-      - text: "Notes"
-        href: notes/Notes.qmd
     right: 
-      # - icon: envelope
-      #   href: mailto:sena.tanaka0210@gmail.com
+      - icon: envelope
+        href: mailto:sena.tanaka0210@gmail.com
       - icon: github
         href: https://github.com/stpolisci
 
@@ -30,8 +30,8 @@ format:
     theme: default
     css: styles.css
     link-external-newwindow: true
-    #toc: true
-    #toc-title: ""
+    toc: true
+    toc-title: "Contents"
     callout-appearance: minimal
 
 editer: visual

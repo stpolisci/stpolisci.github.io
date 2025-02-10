@@ -1,24 +1,24 @@
 ---
-title: "stpolisci"
+title: "Home"
 about: 
   id: heading
   template: jolla
 link-external-newwindow: true
 ---
 
-<!-- :::{#heading} -->
-<!-- Welcome. I am a senior undergraduate student at faculty of Law, department of political science, Doshisha University in Japan. My research interest lies in Political Behavior, Elections, and Japanese Politics. -->
+:::{#heading}
+I am a master's student at Osaka School of International Public Policy, the University of Osaka. My research interests include political representation, and public opinion. 
 
-<!-- ::: -->
-
-<!-- ## Experience -->
+:::
 
 <!-- ## Education -->
 
 
-<!-- :::{.callout-note appearance="default"} -->
+:::{.callout-note appearance="default"}
 
-<!-- ## News -->
+## News
 
-<!-- ::: -->
+:::
+
+<!-- ## Research interests -->
 

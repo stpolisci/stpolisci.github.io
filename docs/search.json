@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sena Tanaka",
+    "title": "Home",
     "section": "",
-    "text": "Welcome. I am a senior undergraduate student at faculty of Law, Doshisha University in Japan. My research interests include Political Behavior, Elections, and Japanese Politics."
+    "text": "I am a master’s student at Osaka School of International Public Policy, the University of Osaka. My research interests include political representation, and public opinion.\n  \n\n\n\n\n\n\n\n\n\nNews"
   },
   {
     "objectID": "index.html#research-interests",
@@ -74,7 +74,7 @@
     "href": "cv/cv.html",
     "title": "CV",
     "section": "",
-    "text": "under construction"
+    "text": "2025年3月 同志社大学法学部政治学科 卒業\n\n学士（政治学）"
   },
   {
     "objectID": "docs/cv/cv.html",
@@ -226,8 +226,15 @@
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "stpolisci",
+    "title": "Home",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\nNews"
+    "text": "Education\n\n\n\n\n\n\n\nNews"
+  },
+  {
+    "objectID": "cv/cv.html#education",
+    "href": "cv/cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "2025年3月 同志社大学法学部政治学科 卒業\n\n学士（政治学）"
   }
 ]
