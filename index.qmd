@@ -6,12 +6,12 @@ about:
 link-external-newwindow: true
 ---
 
-:::{#heading}
-I am a master's student at Osaka School of International Public Policy, the University of Osaka. My research interests include political representation, and public opinion. 
+:::{.head}
+I am a master's student at Osaka School of International Public Policy, the University of Osaka. 
+
+My research interests include political representation, and public opinion. 
 
 :::
-
-<!-- ## Education -->
 
 
 :::{.callout-note appearance="default"}
@@ -19,8 +19,3 @@ I am a master's student at Osaka School of International Public Policy, the Univ
 ## News
 
 :::
-
-<!-- ## Research interests -->
-
-<!-- ## Research interests -->
-
