@@ -11,7 +11,7 @@ website:
   page-footer: "Copyright 2025, Sena Tanaka. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: "#7c7684" # lilachazy
-    search: true
+    search: false
     left:
       - text: "Home"
         href: index.qmd
@@ -29,10 +29,11 @@ format:
   html:
     theme: default
     css: styles.css
+    scss: custom.scss
     link-external-newwindow: true
     toc: true
     toc-title: "Contents"
     callout-appearance: minimal
 
-editer: visual
+editer: source
 

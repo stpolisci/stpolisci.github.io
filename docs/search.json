@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am a master’s student at Osaka School of International Public Policy, the University of Osaka.\nMy research interests include political representation, and public opinion.\n\n\n\n\n\n\n\nNews"
+    "text": "I am a master’s student at Osaka School of International Public Policy, the University of Osaka.\nMy research interests include political representation, and public opinion.\n  \n\n\n\n\n\n\n\n\nNews"
   },
   {
     "objectID": "index.html#research-interests",
@@ -74,7 +74,7 @@
     "href": "cv/cv.html",
     "title": "CV",
     "section": "",
-    "text": "2025年3月 同志社大学法学部政治学科 卒業\n\n学士（政治学）"
+    "text": "under construction"
   },
   {
     "objectID": "docs/cv/cv.html",
@@ -234,7 +234,14 @@
     "objectID": "cv/cv.html#education",
     "href": "cv/cv.html#education",
     "title": "CV",
-    "section": "",
-    "text": "2025年3月 同志社大学法学部政治学科 卒業\n\n学士（政治学）"
+    "section": "Education",
+    "text": "Education\n\n2025年3月 同志社大学法学部政治学科 卒業\n\n学士（政治学）"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "News",
+    "text": "News\n\nウェブサイトを公開しました"
   }
 ]
