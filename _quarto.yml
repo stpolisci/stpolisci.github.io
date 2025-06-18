@@ -7,8 +7,8 @@ project:
 
 website:
   title: "Sena Tanaka's Website"
-  #google-analytics: "G-PJMBZ1E0ZS"
-  page-footer: "Copyright 2024, Sena Tanaka. Powered by [Quarto](https://quarto.org/)"
+  google-analytics: "G-TRXFVT3ME0"
+  page-footer: "Copyright 2025, Sena Tanaka. Powered by [Quarto](https://quarto.org/)"
   navbar:
     background: "#7c7684" # lilachazy
     search: false
