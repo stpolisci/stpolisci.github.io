@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+/*-- scss:defaults --*/
+$primary: #7c7684;
+$callout-color-note: $primary;
+
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+
+/*-- ボタンの文字色を白色に --*/
+.btn-primary {
+  color: #ffffff !important;
+}
+

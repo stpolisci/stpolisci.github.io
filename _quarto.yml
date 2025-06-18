@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+#language: _language.yml
+#lang: ja
+
+website:
+  title: "Sena Tanaka's Website"
+  #google-analytics: "G-PJMBZ1E0ZS"
+  page-footer: "Copyright 2024, Sena Tanaka. Powered by [Quarto](https://quarto.org/)"
+  navbar:
+    background: "#7c7684" # lilachazy
+    search: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv/cv.qmd
+      - text: "Research"
+        href: research/research.qmd
+      - text: "Notes"
+        href: notes/notes.qmd
+    right: 
+      - icon: github
+        href: https://github.com/stpolisci
+
+format:
+  html:
+    theme: 
+      - default
+      - custom.scss
+    link-external-newwindow: true
+    toc: true
+    toc-title: "Contents"
+    callout-appearance: minimal
+
+editer: source
+

@@ -1,0 +1,196 @@
+---
+title: "Econometric Methods - Chapter1"
+author: Sena Tanaka
+date: "`r Sys.Date()`"
+format: 
+  html:
+    grid: 
+      body-width: 1024px
+    theme: lumen
+    highlight-style: a11y
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    number-sections: false
+    self-contained: false
+    embed-resources: true
+    code-fold: false
+    code-line-numbers: true
+knitr: 
+  opts_chunk: 
+    dev: ragg_png
+    fig-align: center
+    dpi: 144
+    message: false
+    warning: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE)
+# you can write packages
+library(tidyverse)
+```
+
+# Random Sampling
+
+-   Randome sampling in R
+-   $n = 10$
+-   Population: $\mathbb{P}(X=0)=0.4, \ \mathbb{P}(X=1) = 0.1, \ \mathbb{P}(X=2) = 0.5$
+-   We will generate the dataset, $X_1, \dots, X_{10}$
+
+```{r}
+# Define n, sample size
+n <- 10
+```
+
+1st
+
+```{r}
+# Sampling(1st attempt)
+data <- sample(
+  c(0, 1, 2),
+  size = n,
+  replace = TRUE,
+  prob = c(0.4, 0.1, 0.5)
+)
+data
+```
+
+2nd
+
+```{r}
+# Sampling(2nd attempt)
+data <- sample(
+  c(0, 1, 2),
+  size = n,
+  replace = TRUE,
+  prob = c(0.4, 0.1, 0.5)
+)
+data
+```
+
+3rd
+
+```{r}
+# Sampling(3rd attempt)
+data <- sample(
+  c(0, 1, 2),
+  size = n,
+  replace = TRUE,
+  prob = c(0.4, 0.1, 0.5)
+)
+data
+```
+
+# Normal distribution
+
+-   pdf and CDF for a normal distribution
+    -   pdf: `dnorm(x, meanm sd)`
+    -   CDF: `pnorm(x, mean=a, sd=b)`
+-   random sampling from a normal distribution
+
+```{r}
+n <- 100
+set.seed(20250613)
+
+seiki1 <- rnorm(n, 50, 10)
+seiki2 <- rnorm(n, 50, 10)
+
+seiki1
+
+seiki2
+
+hist(seiki1)
+
+hist(seiki2)
+
+```
+
+# chapter1-3 exercises
+
+
+```{r}
+# p.8
+## compute the mean of r.v. X
+k <- c(-10, -8, -5, 2, 4)
+prob <- c(0.1, 0.2, 0.2, 0.3, 0.2)
+
+E <- sum(k*prob)
+E
+```
+
+
+```{r}
+# p.39
+## compute the variance 
+### pdf_1
+x <- c(-10, 0, 10)
+x
+prob <- c(1/3, 1/3, 1/3)
+prob
+
+E_x <- sum(x*prob)
+E_x
+
+dev <- (x - E_x)^2
+dev
+
+Var_x <- sum(dev*prob)
+Var_x
+```
+
+
+```{r}
+### pdf_2
+x <- c(-10, 0, 10)
+x
+prob <- c(1/4, 1/2, 1/4)
+prob
+
+E_x <- sum(x*prob)
+E_x
+
+dev <- (x - E_x)^2
+dev
+
+Var_x <- sum(dev*prob)
+Var_x
+
+```
+
+
+```{r}
+### pdf_3
+x <- c(-10, -5, 5, 10)
+x
+prob <- c(1/4, 1/2, 1/2, 1/4)
+prob
+
+E_x <- sum(x*prob)
+E_x
+
+dev <- (x - E_x)^2
+dev
+
+Var_x <- sum(dev*prob)
+Var_x
+
+```
+
+
+```{r}
+### pdf_4
+x <- c(-10, -8, -5, 2, 4)
+x
+prob <- c(0.1, 0.2, 0.2 , 0.3, 0.2)
+prob
+
+E_x <- sum(x*prob)
+E_x
+
+dev <- (x - E_x)^2
+dev
+
+Var_x <- sum(dev*prob)
+Var_x
+```
