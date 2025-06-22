@@ -8,7 +8,4 @@ under construction
 <!-- ## Full CV in English -->
 <!-- <a href="CV.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>&nbsp;&nbsp;&nbsp;Open full CV in a new window</a> -->
 
-<!-- ## Education -->
-<!-- - 2025年3月  同志社大学法学部政治学科 卒業 -->
-<!--   - 学士（政治学） -->
   
