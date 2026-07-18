@@ -20,3 +20,4 @@ Thumbs.db
 
 # Claude
 CLAUDE.md
+**/*.quarto_ipynb

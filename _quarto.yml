@@ -1,7 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
+  site-url: "https://www.stpolisci.net/"
   title: "stpolisci"
   navbar:
     left:
