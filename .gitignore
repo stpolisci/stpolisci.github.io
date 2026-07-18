@@ -19,3 +19,6 @@ Thumbs.db
 # Node (if you use build tools)
 node_modules/
 dist/
+
+# Claude
+CLAUDE.md
