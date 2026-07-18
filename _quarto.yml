@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Sena Tanaka"
+  title: "stpolisci"
   navbar:
     left:
       - href: index.qmd
