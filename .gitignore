@@ -1,12 +1,14 @@
 # Secrets / credentials
 .env
 .env.*
-*.local
-secrets/
 *.key
 *.pem
 credentials.json
-service-account*.json
+
+# Quarto build output & cache
+/_site/
+/.quarto/
+*_files/
 
 # OS files
 .DS_Store
@@ -15,10 +17,6 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
-
-# Node (if you use build tools)
-node_modules/
-dist/
 
 # Claude
 CLAUDE.md
