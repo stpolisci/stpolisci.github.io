@@ -1,0 +1,21 @@
+# Secrets / credentials
+.env
+.env.*
+*.local
+secrets/
+*.key
+*.pem
+credentials.json
+service-account*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node (if you use build tools)
+node_modules/
+dist/
