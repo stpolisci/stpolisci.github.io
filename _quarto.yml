@@ -17,6 +17,9 @@ website:
         text: Research
       - href: notes/notes.qmd
         text: Notes
+    right: 
+      - href: https://github.com/stpolisci
+        icon: github
 
 format:
   html:
