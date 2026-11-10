@@ -4,7 +4,7 @@ project:
 
 website:
   site-url: "https://www.stpolisci.net/"
-  title: "stpolisci"
+  title: "Website"
   navbar:
     left:
       - href: index.qmd
